@@ -1,0 +1,13 @@
+h1 { 
+    color: #40e0d0;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+p { 
+    margin: 10px;
+}
+
+#example { 
+    margin-bottom: 100px;
+    background-color: lightcoral
+}
