@@ -1,13 +1,13 @@
 h1 { 
     color: #40e0d0;
-    margin-bottom: 50px;
-    padding-bottom: 100px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
 }
 p { 
-    margin: 10px;
+    margin: 1px;
 }
-
-#example { 
-    margin-bottom: 100px;
-    background-color: lightcoral
+ul { 
+    color: white;
+    background-color: #40e0d0;
+    margin-bottom: 5px;
 }
