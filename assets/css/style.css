@@ -7,6 +7,7 @@ p {
     margin: 1px;
 }
 ul { 
+    display: inline-block; width: 5%; 
     color: white;
     background-color: #40e0d0;
     margin-bottom: 5px;
